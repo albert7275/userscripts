@@ -19,11 +19,11 @@
 // @include       http*://plus.google.com/u/0/_/notifications/frame*
 // @include       http*://talkgadget.google.com/u/0/talkgadget/_/frame*
 
-// @resource      manifest https://userscripts.org/scripts/source/117234.meta.js
+// @resource      manifest https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.meta.js
 
-// @updateURL     https://userscripts.org/scripts/source/117234.meta.js
-// @installURL    https://userscripts.org/scripts/source/117234.user.js
-// @downloadURL   https://userscripts.org/scripts/source/117234.user.js
+// @updateURL     https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.meta.js
+// @installURL    https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.user.js
+// @downloadURL   https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.user.js
 
 // @history       3.2.10 Fixed a bug for shortcut keys being triggered inside editablecontent [2013-12-13]
 // @history       3.2.9  Fixed Google Logo on top left for different Gmail themes and search box focus issue [2013-12-06]
