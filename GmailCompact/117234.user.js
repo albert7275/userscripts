@@ -5,7 +5,7 @@
 // @date          2014-04-14
 // @author        Albert Park
 // @description   Improve Gmail's new look and remove futile white spaces with keyboard shortcuts (make sure display density is set to compact)
-// @copyright     2011 - 2013, Albert Park; http://userscripts.org/users/albertpark
+// @copyright     2011 - 2014, Albert Park; http://userscripts.org/users/albertpark
 // @license       Creative Commons; http://creativecommons.org/licenses/by-nc-nd/3.0/
 // @icon          http://i.imgur.com/DT2Wz1B.png
 // @icon64        http://i.imgur.com/YipLpr9.png
