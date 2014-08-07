@@ -1,10 +1,11 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name          Gmail Compact
 // @namespace     gmailcompact
-// @version       3.2.11
+// @version       3.2.12
+// @date          2014-08-06
 // @author        Albert Park
 // @description   Improve Gmail's new look and remove futile white spaces with keyboard shortcuts (make sure display density is set to compact)
-// @copyright     2011 - 2014, Albert Park; http://userscripts.org/users/albertpark
+// @copyright     2011 - 2014, Albert Park; https://github.com/albert7275
 // @license       Creative Commons; http://creativecommons.org/licenses/by-nc-nd/3.0/
 // @icon          http://i.imgur.com/DT2Wz1B.png
 // @icon64        http://i.imgur.com/YipLpr9.png
@@ -18,9 +19,9 @@
 // @include       http*://plus.google.com/u/0/_/notifications/frame*
 // @include       http*://talkgadget.google.com/u/0/talkgadget/_/frame*
 
-// @resource      manifest https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.meta.js
+// @resource      manifest https://albert7275.github.io/userscripts/releases/gmailcompact.meta.js
 
-// @updateURL     https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.meta.js
-// @installURL    https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.user.js
-// @downloadURL   https://github.com/albert7275/Userscripts/raw/master/GmailCompact/117234.user.js
+// @updateURL     https://albert7275.github.io/userscripts/releases/gmailcompact.meta.js
+// @installURL    https://albert7275.github.io/userscripts/releases/gmailcompact.user.js
+// @downloadURL   https://albert7275.github.io/userscripts/releases/gmailcompact.user.js
 // ==/UserScript==
